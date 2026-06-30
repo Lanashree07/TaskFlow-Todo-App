@@ -6,7 +6,7 @@
 }
 
 body{
-    background:#080808;
+    background:#6b4ed0;
     display:flex;
     justify-content:center;
     align-items:center;
@@ -70,7 +70,7 @@ input{
 }
 
 .filter-btn.active{
-    background:#8357fb;
+    background:#440be2;
 }
 
 li{
